@@ -1,0 +1,1 @@
+Esta aplicación desarrollada en Streamlit utiliza un modelo de machine learning (`RandomForestClassifier`) para predecir el diagnóstico de salida de pacientes internados, a partir de variables como edad, sexo y diagnóstico de ingreso.
